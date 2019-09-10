@@ -1,6 +1,6 @@
 # Ejercicio: 
-##Newspaper3k
+### Newspaper3k
 # Autor: 
-##Elias Daniel Cobo Medvedsky
+### Elias Daniel Cobo Medvedsky
 # Profesor: 
-##Carlos Selmo
+### Carlos Selmo
