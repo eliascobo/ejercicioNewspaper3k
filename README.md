@@ -1,6 +1,6 @@
-# Ejercicio: 
+# Ejercicio
 ### Newspaper3k
-# Autor: 
+# Autor
 ### Elias Daniel Cobo Medvedsky
-# Profesor: 
+# Profesor
 ### Carlos Selmo
